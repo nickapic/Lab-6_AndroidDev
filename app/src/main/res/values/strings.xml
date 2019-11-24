@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BestSongsApi</string>
+    <string name="message">Click on Update Info</string>
+    <string name="buttoninfo">Update Info</string>
+</resources>
